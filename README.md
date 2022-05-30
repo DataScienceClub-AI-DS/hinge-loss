@@ -14,7 +14,7 @@ if yf(x) ≥ 1, hinge loss is ‘0’.
 
 if yf(x) < 1 , hinge loss is increases.
 
-
+where,
 
 f(x) is  the actual outcome (either 1 or -1),
 
