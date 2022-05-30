@@ -6,3 +6,4 @@ or not.
 
 ## Formula :
 
+![](https://github.com/DataScienceClub-AI-DS/Loss-Functions-Machine-Learning/blob/main/img/hinge_loss.png)
