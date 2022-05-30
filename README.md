@@ -4,6 +4,19 @@ The hinge loss function is used for a binary classification problem, a loss func
 hinge loss is mostly used in SVM, this is used in the combination of the activation function in the last layer. We use Hinge loss to classify whether an email is a spam 
 or not.
 
-## Formula :
 
-![](https://github.com/DataScienceClub-AI-DS/Loss-Functions-Machine-Learning/blob/main/img/hinge_loss.png)
+##Formula = [0, 1- yf(x)]
+
+
+if yf(x) ≥ 1, hinge loss is ‘0’.
+
+
+
+if yf(x) < 1 , hinge loss is increases.
+
+
+
+f(x) is  the actual outcome (either 1 or -1),
+
+
+y is the output of the classifier
